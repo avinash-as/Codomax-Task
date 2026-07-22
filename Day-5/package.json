@@ -1,0 +1,12 @@
+{
+  "name": "blog-management-day5",
+  "version": "1.0.0",
+  "description": "Day 5 - Express server with GET and POST routes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
