@@ -1,0 +1,12 @@
+{
+  "name": "blog-management-day8",
+  "version": "1.0.0",
+  "description": "Day 8 - Edit existing blog posts",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
