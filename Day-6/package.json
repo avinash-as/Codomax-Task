@@ -1,0 +1,12 @@
+{
+  "name": "blog-management-day6",
+  "version": "1.0.0",
+  "description": "Day 6 - API to add blog posts",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
